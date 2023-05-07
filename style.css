@@ -1,0 +1,18 @@
+body {
+    background-color: #AA3C39;
+    color: #FFACAA;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+.tolkien {
+    float: right;
+    width: 25%;
+    border: 2px solid black;
+    display: inline-block;
+
+}
